@@ -4,7 +4,7 @@ title: Política de Privacidade do Rolezão
 
 # Política de Privacidade do Rolezão
 
-Vigente a partir de 24 de novembro de 2026.
+Vigente a partir de 28 de novembro de 2026.
 
 Esta política explica, em linguagem simples, quais dados o app **Rolezão**
 usa, para quê, com quem eles são compartilhados e como você exerce seus
@@ -44,6 +44,7 @@ Estes dados são gravados no armazenamento interno do app, no seu celular. Eles
 | Configurações do Impostor (modo, quantidade de impostores, categoria, dica, modo caos, se os impostores se conhecem, tempo de discussão) | Abrir o jogo do jeito que você deixou | Apagar os dados do app |
 | Configurações do Quem Sou Eu (categoria, tempo, responder inclinando o celular) | Idem | Apagar os dados do app |
 | Configuração do Passa a Bomba (duração do pavio) | Idem | Apagar os dados do app |
+| Aceite da primeira abertura ("tenho 18 anos ou mais e aceito os Termos": só um "sim", junto com a versão dos Termos aceita) | Não mostrar a tela de entrada de novo, até os Termos mudarem | Apagar os dados do app |
 | Confirmação "tenho 18 anos ou mais" (só um "sim") | Não perguntar de novo toda vez que alguém escolhe o nível +18 | Apagar os dados do app |
 | Placar da noite (nome de cada jogador e números: acertos, votos recebidos, derrotas, além do horário da última partida) | Mostrar o ranking da noite na tela inicial | Botão "Zerar"; ou ele se apaga sozinho depois de 12 horas sem nenhuma partida |
 | Dados técnicos da assinatura guardados pelo RevenueCat no aparelho (o identificador anônimo e o último status do VIP) | Saber se você é VIP mesmo com internet ruim | Apagar os dados do app |
@@ -169,10 +170,12 @@ você mesmo apaga, como explicado na seção 2.
 ## 9. Idade
 
 O Rolezão é feito **só para maiores de 18 anos**, porque os jogos envolvem
-bebida alcoólica e há conteúdo adulto. O nível +18, de conteúdo mais
-picante, ainda pede uma confirmação extra ("tenho 18 anos ou mais") na
-primeira vez que é escolhido. Não coletamos dados de propósito de menores de
-idade. Se você souber que um menor fez uma compra no app, fale com
+bebida alcoólica e há conteúdo adulto. Na primeira abertura, o app pede que
+você confirme ter 18 anos ou mais e aceite os Termos de Uso: sem isso, os
+jogos não abrem. A tela volta a aparecer quando os Termos mudam. O nível +18,
+de conteúdo mais picante, ainda pede uma confirmação extra ("tenho 18 anos ou
+mais") na primeira vez que é escolhido. Não coletamos dados de propósito de
+menores de idade. Se você souber que um menor fez uma compra no app, fale com
 a gente em thurbritto.dev@gmail.com para apagarmos os dados.
 
 ## 10. Segurança
