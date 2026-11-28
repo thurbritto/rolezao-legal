@@ -4,11 +4,11 @@ title: Termos de Uso do Rolezão
 
 # Termos de Uso do Rolezão
 
-Vigente a partir de 24 de novembro de 2026.
+Vigente a partir de 28 de novembro de 2026.
 
 Estes Termos são o acordo entre você e **Sonder Studio**, responsável pelo
 app **Rolezão**. Leia com calma: eles explicam as regras de uso, como funciona
-a assinatura VIP e os limites da nossa responsabilidade.
+o VIP e os limites da nossa responsabilidade.
 
 ## 1. Aceitação
 
@@ -40,7 +40,7 @@ crime.**
 O Rolezão é um app de jogos de festa para jogar em grupo, presencialmente,
 passando o celular de mão em mão: Eu Nunca, Verdade ou Desafio, Quem É Mais
 Provável, Roleta de Desafios, Impostor, Quem Sou Eu e Passa a Bomba. Parte do
-conteúdo é grátis; o resto é liberado pela assinatura VIP (seção 5).
+conteúdo é grátis; o resto é liberado pelo VIP (seção 5).
 
 ## 4. Uso responsável
 
@@ -69,28 +69,39 @@ O Rolezão é diversão. Para continuar sendo, combine com a roda estas regras:
 Você é responsável pelo que faz durante o jogo. O app só sugere perguntas e
 desafios; quem decide o que fazer é você.
 
-## 5. Assinatura VIP
+## 5. VIP
 
-**Planos.** O VIP é uma assinatura com renovação automática, em dois planos:
-**anual** e **mensal**. O preço de cada plano aparece na tela de assinatura do
-app e na loja antes de você confirmar a compra, na moeda da sua loja.
+**Planos.** O VIP pode ser comprado em três planos:
+
+- **Passe da Noite:** 24 horas de VIP a partir da compra. É uma compra única:
+  **não renova** e não cobra de novo. Depois das 24 horas o VIP acaba
+  sozinho; para ter de novo, é só comprar outro.
+- **VIP Anual:** assinatura de 1 ano com **renovação automática** (veja
+  abaixo). Na tela de compra também aparece quanto ele dá por mês, só como
+  comparação: a cobrança é uma vez por ano.
+- **VIP Vitalício:** compra única. Você paga uma vez, **não renova** e o VIP
+  não tem data para acabar, enquanto o app existir (seção 7).
+
+O preço de cada plano aparece na tela de compra do app e na loja antes de você
+confirmar, na moeda da sua loja.
 
 **O que o VIP libera.** Todos os jogos, todas as categorias, todos os níveis
-(incluindo Quente, Pesado e +18) e os temas exclusivos, enquanto a assinatura
-estiver ativa. O conteúdo pode mudar com o tempo (seção 7).
+(incluindo Quente, Pesado e +18) e os temas exclusivos, enquanto o seu plano
+estiver valendo. O conteúdo pode mudar com o tempo (seção 7).
 
 **Cobrança pela loja.** A compra é feita e cobrada pelo Google Play ou pela
-App Store, na conta usada para assinar. Nós não recebemos nem guardamos dados
+App Store, na conta usada para comprar. Nós não recebemos nem guardamos dados
 de cartão.
 
-**Renovação automática.** A assinatura se renova sozinha ao fim de cada
-período (mês ou ano) pelo mesmo preço, a menos que você cancele **pelo menos
-24 horas antes** do fim do período atual. A cobrança da renovação é feita nas
-24 horas antes de o período acabar. Se o preço mudar, a loja avisa você antes,
-seguindo as regras dela.
+**Renovação automática (só o VIP Anual).** A assinatura anual se renova
+sozinha ao fim de cada ano, a menos que você cancele **pelo menos 24 horas
+antes** do fim do período atual. A cobrança da renovação é feita nas 24 horas
+antes de o período acabar. Se o preço mudar, a loja avisa você antes,
+seguindo as regras dela. O Passe da Noite e o VIP Vitalício não renovam e não
+têm o que cancelar.
 
-**Como cancelar.** O cancelamento é feito nas configurações da loja, não no
-app:
+**Como cancelar o VIP Anual.** O cancelamento é feito nas configurações da
+loja, não no app:
 
 - **Android (Google Play):** app Google Play > foto do perfil > Pagamentos e
   assinaturas > Assinaturas > Rolezão > Cancelar assinatura. Ou em
@@ -98,11 +109,11 @@ app:
 - **iPhone (App Store):** Ajustes > seu nome > Assinaturas > Rolezão >
   Cancelar Assinatura.
 
-Ao cancelar, você continua com o VIP até o fim do período que já pagou; depois
+Ao cancelar, você continua com o VIP até o fim do ano que já pagou; depois
 disso ele não renova. **Desinstalar o app não cancela a assinatura.**
 
-**Reembolso.** Como o pagamento é feito pela loja, os pedidos de reembolso
-seguem a política da loja:
+**Reembolso.** Vale para os três planos: como o pagamento é feito pela loja,
+os pedidos de reembolso seguem a política da loja:
 
 - Google Play: <https://support.google.com/googleplay/answer/2479637>
 - App Store: <https://reportaproblem.apple.com>
@@ -111,9 +122,11 @@ Seus direitos pelo Código de Defesa do Consumidor continuam valendo. Se tiver
 problema com a compra, fale também com a gente em thurbritto.dev@gmail.com.
 
 **Restaurar compras.** Trocou de celular ou reinstalou o app? Toque em
-"Restaurar compras" na tela de assinatura, usando a mesma conta Google ou
-Apple ID da compra. Como o app não tem login, a assinatura vale na loja em que
-foi feita: uma assinatura do Google Play não passa para um iPhone, e vice-versa.
+"Restaurar compras" na tela de compra do VIP, usando a mesma conta Google ou
+Apple ID da compra. Volta o plano que ainda estiver valendo (o Passe da Noite
+só dentro das 24 horas). Como o app não tem login, a compra vale na loja em
+que foi feita: uma compra do Google Play não passa para um iPhone, e
+vice-versa.
 
 ## 6. Conteúdo e propriedade intelectual
 
@@ -124,7 +137,7 @@ intransferível para usar o app no seu celular, para diversão, sem fins
 comerciais.
 
 Você não pode copiar, vender ou redistribuir o conteúdo do app, nem tentar
-burlar a assinatura VIP ou modificar o app.
+burlar o VIP ou modificar o app.
 
 O app usa bibliotecas de código aberto de terceiros, que seguem as próprias
 licenças.
@@ -136,8 +149,8 @@ Política de Privacidade).
 
 Podemos atualizar o app: incluir, mudar ou tirar jogos, perguntas e recursos,
 corrigir erros ou, em último caso, encerrar o app. Se uma mudança tirar algo
-importante do VIP enquanto você é assinante, avisaremos com antecedência
-razoável, e você pode cancelar a assinatura a qualquer momento.
+importante do VIP enquanto o seu plano estiver valendo, avisaremos com
+antecedência razoável, e o VIP Anual pode ser cancelado a qualquer momento.
 
 ## 8. Limitação de responsabilidade
 
